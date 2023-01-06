@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/tbox/temp/blink'
+gcc -o blink -Wall blink.c -lwiringPi
+make: Leaving directory '/home/tbox/temp/blink'
+ 
