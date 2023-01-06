@@ -1,5 +1,6 @@
 make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/tbox/temp/blink'
-gcc -o blink -Wall blink.c -lwiringPi
-make: Leaving directory '/home/tbox/temp/blink'
+make: Entering directory '/home/tbox/project/pi-io-test/gpio'
+make: Leaving directory '/home/tbox/project/pi-io-test/gpio'
  
+make: *** No targets specified and no makefile found.  Stop.
+
